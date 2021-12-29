@@ -19,7 +19,6 @@ The idea behind the analysis was to see if there exists a correlation between cl
 During our research for the analysis it came to our attention that some students at a particular high school of a particular grade level were accused of cheating and it was tasked upon us to remove the affected students records from the summary and analysis. As such, the follwing description of the results of our investigation will focus primarly on the integrated results of the affected students math and reading scores having been stricken from the offical analysis.
 
 ### District Summary
-
 As we can see from the images below removing the ninth grade test scores from Thomas High school had little to no bearing on the overall math and reading scores from the district as a whole, due to the fact that the ninth grade students represent a small fraction of the total kids in the district. There are approxamitly 461 Thomas High school ninth graders which represent only 1.18% of the total students in the school district.
 
 As such, we can only imagine that removing them from the school district total will have little affect. However, where we will see a larger percentage decrease in the amount of passing reading and math scores will be at Thomas High School, specfically. But, for now let's compare the district totals, pre and post Thomas High School ninth graders. 
@@ -32,9 +31,17 @@ As such, we can only imagine that removing them from the school district total w
 
 ![image](https://user-images.githubusercontent.com/93171738/147676731-fa6c698f-770d-4365-aeb0-d97e93235542.png)
 
-
 ### School Summary
+As we may have imagined, removing the math and reading scores for all ninth graders from Thomas High school had very little affect on the othe schools in the district as their test scores remained primarly intact from how they were prior to the removal of the ninth grade students. 
 
+### Thomas High School
+The real suriprise in this analysis was how much the ninth grade class of Thomas High School contributed to the passing math and reading scores and to the overall score of students who passed both their math and reading test. Prior to the removal of the ninth grade class, the Thomas High School students presented the following passing percentages. 
+
+- **Passing Math Score % - 93.27%
+- **Passing Reading Score % - 97.34%
+- **Overall Passing Both % - 90.94%
+
+However 
 
 District 1. - Top 5 Schools
 ![image](https://user-images.githubusercontent.com/93171738/147617119-fda411f6-691c-4f78-b627-8c7ef0363be0.png)
