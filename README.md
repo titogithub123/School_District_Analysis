@@ -29,7 +29,8 @@ As such, we can only imagine that removing them from the school district total w
 
 ***District Summary*** - (Post Dropping Thomas HS ninth graders.)
 
-![image](https://user-images.githubusercontent.com/93171738/147676731-fa6c698f-770d-4365-aeb0-d97e93235542.png)
+![image](https://user-images.githubusercontent.com/93171738/147678365-81c3cc97-96fb-49e3-a692-26b662c3a275.png)
+
 ### School Summary
 As we may have imagined, removing the math and reading scores for all ninth graders from Thomas High school had very little affect on the othe schools in the district as their test scores remained primarly intact from how they were prior to the removal of the ninth grade students. 
 
