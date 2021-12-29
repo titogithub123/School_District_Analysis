@@ -16,3 +16,4 @@ The Analysis includes small and large schools from both public and charter schoo
 The idea behind the analysis was to see if there exists a correlation between class size and passing percentage and also to investigate if the amount of money budgeted per student also helps to increase or decrease the likelyhood of a particualr student passing the tests with high averages. 
 
 ### Results
+During our research for the analysis it came to our attention that some students at a particular high school of a particular grade level were accused of cheating and it was tasked upon us to remove the affected students records from the summary and analysis. As such, the follwing description of the results of our investigation will focus primarly on the integrated results of the affected students math and reading scores having been stricken from the offical analysis.
