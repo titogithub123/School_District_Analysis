@@ -30,16 +30,15 @@ As such, we can only imagine that removing them from the school district total w
 ***District Summary*** - (Post Dropping Thomas HS ninth graders.)
 
 ![image](https://user-images.githubusercontent.com/93171738/147676731-fa6c698f-770d-4365-aeb0-d97e93235542.png)
-
 ### School Summary
 As we may have imagined, removing the math and reading scores for all ninth graders from Thomas High school had very little affect on the othe schools in the district as their test scores remained primarly intact from how they were prior to the removal of the ninth grade students. 
 
 ### Thomas High School
 The real suriprise in this analysis was how much the ninth grade class of Thomas High School contributed to the passing math and reading scores and to the overall score of students who passed both their math and reading test. Prior to the removal of the ninth grade class, the Thomas High School students presented the following passing percentages. 
 
-- **Passing Math Score % - 93.27%
-- **Passing Reading Score % - 97.34%
-- **Overall Passing Both % - 90.94%
+- **Passing Math Score % - 93.27%**
+- **Passing Reading Score % - 97.34%**
+- **Overall Passing Both % - 90.94%**
 
 However 
 
