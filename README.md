@@ -28,7 +28,7 @@ District Summary - (Prior to Dropping Thomas HS ninth graders.)
 ![image](https://user-images.githubusercontent.com/93171738/147616803-925e5209-9db5-4e0b-a610-425e624a48a6.png)
 
 District Summary - (Post Dropping Thomas HS ninth graders.)
-![image](https://user-images.githubusercontent.com/93171738/147623750-7ea67e2e-c28c-4617-b6a5-2cda3a61718e.png)
+![image](https://user-images.githubusercontent.com/93171738/147676731-fa6c698f-770d-4365-aeb0-d97e93235542.png)
 
 
 District 1. - Top 5 Schools
