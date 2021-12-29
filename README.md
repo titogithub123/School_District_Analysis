@@ -37,3 +37,8 @@ District 1. - Ninth Grade Reading Scores
 
 ![image](https://user-images.githubusercontent.com/93171738/147621504-3a4fef0b-abb9-491d-a73d-4ec87a1b073b.png)
 
+District 2. - District Summary
+![image](https://user-images.githubusercontent.com/93171738/147623750-7ea67e2e-c28c-4617-b6a5-2cda3a61718e.png)
+
+
+
