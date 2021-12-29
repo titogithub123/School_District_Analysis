@@ -20,10 +20,15 @@ During our research for the analysis it came to our attention that some students
 
 ### District Summary
 
-As we can see from the images below removing the ninth grade test scores from Thomas High school had little to no bearing on the overall math and reading scores from the district as a whole, due to the fact that the ninth grade students represent a small fraction of the total kids in the district. There are approxamitly 
+As we can see from the images below removing the ninth grade test scores from Thomas High school had little to no bearing on the overall math and reading scores from the district as a whole, due to the fact that the ninth grade students represent a small fraction of the total kids in the district. There are approxamitly 461 Thomas High school ninth graders which represent only 1.18% of the total students in the school district.
 
-District 1. Summary
+As such, we can only imagine that removing them from the school district total will have little affect. However, where we will see a larger percentage decrease in the amount of passing reading and math scores will be at Thomas High School, specfically. But, for now let's compare the district totals, pre and post Thomas High School ninth graders. 
+
+District Summary - (Prior to Dropping Thomas HS ninth graders.)
 ![image](https://user-images.githubusercontent.com/93171738/147616803-925e5209-9db5-4e0b-a610-425e624a48a6.png)
+
+District Summary - (Post Dropping Thomas HS ninth graders.)
+![image](https://user-images.githubusercontent.com/93171738/147623750-7ea67e2e-c28c-4617-b6a5-2cda3a61718e.png)
 
 
 District 1. - Top 5 Schools
@@ -41,8 +46,7 @@ District 1. - Ninth Grade Reading Scores
 
 ![image](https://user-images.githubusercontent.com/93171738/147621504-3a4fef0b-abb9-491d-a73d-4ec87a1b073b.png)
 
-District 2. - District Summary
-![image](https://user-images.githubusercontent.com/93171738/147623750-7ea67e2e-c28c-4617-b6a5-2cda3a61718e.png)
+
 
 
 
