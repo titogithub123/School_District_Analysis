@@ -18,6 +18,10 @@ The idea behind the analysis was to see if there exists a correlation between cl
 ### Results
 During our research for the analysis it came to our attention that some students at a particular high school of a particular grade level were accused of cheating and it was tasked upon us to remove the affected students records from the summary and analysis. As such, the follwing description of the results of our investigation will focus primarly on the integrated results of the affected students math and reading scores having been stricken from the offical analysis.
 
+### District Summary
+
+As we can see from the images below removing the ninth grade test scores from Thomas High school had little to no bearing on the overall math and reading scores from the district as a whole, due to the fact that the ninth grade students represent a small fraction of the total kids in the district. There are approxamitly 
+
 District 1. Summary
 ![image](https://user-images.githubusercontent.com/93171738/147616803-925e5209-9db5-4e0b-a610-425e624a48a6.png)
 
