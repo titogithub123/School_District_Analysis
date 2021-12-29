@@ -33,6 +33,9 @@ As such, we can only imagine that removing them from the school district total w
 ![image](https://user-images.githubusercontent.com/93171738/147676731-fa6c698f-770d-4365-aeb0-d97e93235542.png)
 
 
+### School Summary
+
+
 District 1. - Top 5 Schools
 ![image](https://user-images.githubusercontent.com/93171738/147617119-fda411f6-691c-4f78-b627-8c7ef0363be0.png)
 
