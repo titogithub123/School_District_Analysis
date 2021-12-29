@@ -13,3 +13,4 @@ The Analysis includes small and large schools from both public and charter schoo
 - Reading Scores
 - Overall Passing **%**
 
+The idea behind the analysis was to see if there exists a correlation between class size and passing percentage and also to investigate if the amount of money budgeted per student also helps to increase or decrease the likelyhood of a particualr student passing the tests with high averages. 
