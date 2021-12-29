@@ -11,5 +11,5 @@ The Analysis includes small and large schools from both public and charter schoo
 - Budget 
 - Math Scores
 - Reading Scores
-- Overall Passing %
+- Overall Passing **%**
 
