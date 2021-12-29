@@ -20,3 +20,11 @@ During our research for the analysis it came to our attention that some students
 
 District 1. Summary
 ![image](https://user-images.githubusercontent.com/93171738/147616803-925e5209-9db5-4e0b-a610-425e624a48a6.png)
+
+
+District 1. - Top 5 Schools
+![image](https://user-images.githubusercontent.com/93171738/147617119-fda411f6-691c-4f78-b627-8c7ef0363be0.png)
+
+
+District 1. Bottom 5 Schools
+![image](https://user-images.githubusercontent.com/93171738/147617226-221dd8ff-8dee-4a23-acfa-8662ed6c3c12.png)
