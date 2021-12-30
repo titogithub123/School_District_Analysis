@@ -81,5 +81,7 @@ In summation, we see that dropping the ninth-grade students from Thomas High Sch
 - % Passing Reading, also went down after we took out the ninth graders. 
 
 For your time and your attention, Thank You.
+
 Your Local Data Specialist,
+
 Humberto Sandez
