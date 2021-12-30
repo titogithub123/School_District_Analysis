@@ -69,10 +69,16 @@ What this tells us is that throwing money alone at the problem is not the soluti
 ### Scores by School Size
 I beleive we can also find a correlation between school size and how likely a school is to do well in their math and reading test scores. For example, the average school size for the top 5 schools is 1,641 students. On the flip side, we see that the average school size of the bottom 5 schools is 3,852 students. That's an average of approx. 42% more students per school. It's no wonder that lower school size can equate higher scores since the schools with lower total students can probably cater a little more to the personal need of their students to help them succeed. 
 
-# Scores by School Type
+### Scores by School Type
 The last factor we'll look at is scores by school type. It should come as no surpirse all the top 5 schools are charter schools and all the bottom 5 schools are district schools. The charter schools while not spending more money per student offer a smaller class size which in turn helps to better prepare students for standardized test by offering them more personal attention than you can hope to recive at a public, district school. 
 
 ### Summary
+In summation, we see that dropping the ninth grade students from Thomas High School  had a negligible effect on the overall student perfomance and had a more significant effect on the final tally for Thomas High School. However, there are some conclusions we can draw from analysing the pre- and post- dropping of the Thomas HS ninth graders. 
+
+- Avg. Math Scores were slightly higher prior to dropping the ninth graders.
+- Avg. Reading Scores seem to have stayed the same. 
+- % Passing Math, decreesed when we took out the Thomas HS ninth graders.
+- % Passing Reading, also went down after we took out the ninth graders. 
 
 
 
