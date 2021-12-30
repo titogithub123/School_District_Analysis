@@ -59,7 +59,8 @@ For the remainder of the analysis we can use the following DataFrame's to put in
 ***Top 5 Schools***
 ![image](https://user-images.githubusercontent.com/93171738/147712994-487e9458-0dc0-42eb-bc62-fe9b99fc502e.png)
 
-
+***Bottom 5 Schools***
+![image](https://user-images.githubusercontent.com/93171738/147713028-8ab6987a-2538-46e6-987f-7eca97dfbb09.png)
 
 
 
