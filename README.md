@@ -40,7 +40,7 @@ The real surprise  in this analysis was how much the ninth-grade class of Thomas
 - **Passing Reading Score % - 97.34%**
 - **Overall Passing Both % - 90.94%**
 
-However, after the removal of the ninth-grade students we can see a precipitous drop in the passing math score %. This is probably due to the supposed fact that some of the children of the ninth-grade class at Thomas High were engaged in some dishonest behavior. We can see from the image below the updated lower passing math score percent. 
+However, after the removal of the ninth-grade students we can see a precipitous drop in the passing math score %. This is probably due to the supposed fact that some of the students in the ninth-grade class at Thomas High were engaged in some dishonest behavior. We can see from the image below the updated lower passing math score percent. 
 
 ![image](https://user-images.githubusercontent.com/93171738/147712071-6b92c7f4-2b17-4026-a827-a508019d438d.png)
 
