@@ -53,7 +53,8 @@ The general pattern for most of the schools appears to be that the reading score
 
 ![image](https://user-images.githubusercontent.com/93171738/147712430-0cc32526-3fc6-4581-aca7-7de26942d28a.png)
 
-For... 
+### Scores by School Spending, School Size and School Type
+For the remainder of the analysis we can use the following DataFrame's to put into perspective what I believe is at the heart of the issue for determining which schools will most likely have higher math and reading scores as well as higher passing percentages. 
 
 District 1. - Top 5 Schools
 ![image](https://user-images.githubusercontent.com/93171738/147617119-fda411f6-691c-4f78-b627-8c7ef0363be0.png)
