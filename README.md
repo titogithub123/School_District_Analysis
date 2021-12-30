@@ -64,7 +64,7 @@ For the remainder of the analysis, we can use the following DataFrame's to put i
 ### Scores by School Spending
 It's an interesting fact that the "Per Student Budget" average score for the top 5 schools comes in at $606.40 and the average "Per Student Budget" for the bottom 5 schools comes in at $646.60. (A $40.20 per student, difference.) What this tells us is that budgeting more money per student does not necessarily translate to higher test scores. As a matter of fact, the average Overall Passing Percentage for the top 5 schools is 90.74% while the average Overall Passing Percentage for the bottom 5 schools is only, 80.87%. 
 
-What this tells us is that throwing money alone at the problem is not the solution to higher test scores there must be other variables we have to take into consideration. 
+This fact goes a long way towards confirming that throwing money alone at the problem is not the solution to higher test scores there must be other variables we have to take into consideration. 
 
 ### Scores by School Size
 I believe we can also find a correlation between school size and how likely a school is to do well in their math and reading test scores. For example, the average school size for the top 5 schools is 1,641 students. On the flip side, we see that the average school size of the bottom 5 schools is 3,852 students. That's an average of approx. 42% more students per school. It's no wonder that lower school size can equate higher scores since the schools with lower total students can probably cater a little more to the personal need of their students to help them succeed. 
