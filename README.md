@@ -62,7 +62,7 @@ For the remainder of the analysis, we can use the following DataFrame's to put i
 ***Bottom 5 Schools***
 ![image](https://user-images.githubusercontent.com/93171738/147713028-8ab6987a-2538-46e6-987f-7eca97dfbb09.png)
 ### Scores by School Spending
-It's an interesting fact that the "Per Student Budget" average score for the top 5 schools comes in at $606.40 and the average "Per Student Budget" for the bottom 5 schools comes in at $646.60. What this tells us is that budgeting more money per student does not necessarily translate to higher test scores. As a matter of fact, the average Overall Passing Percentage for the top 5 schools is 90.74% while the average Overall Passing Percentage for the bottom 5 schools is only, 80.87%. 
+It's an interesting fact that the "Per Student Budget" average score for the top 5 schools comes in at $606.40 and the average "Per Student Budget" for the bottom 5 schools comes in at $646.60. A $40.20 per student, difference. What this tells us is that budgeting more money per student does not necessarily translate to higher test scores. As a matter of fact, the average Overall Passing Percentage for the top 5 schools is 90.74% while the average Overall Passing Percentage for the bottom 5 schools is only, 80.87%. 
 
 What this tells us is that throwing money alone at the problem is not the solution to higher test scores there must be other variables we have to take into consideration. 
 
