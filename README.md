@@ -43,7 +43,6 @@ The real suriprise in this analysis was how much the ninth grade class of Thomas
 However, after the removal of the ninth grade students we can see a precipitous drop in the passing math score %. This is probably due to the supposed fact that some of the children of the ninth grade class at Thomas High were engaged in some dishonest behavior. We can see from the image below the updated lower passing math score percent. 
 
 ![image](https://user-images.githubusercontent.com/93171738/147712071-6b92c7f4-2b17-4026-a827-a508019d438d.png)
-
 As we can see the passing math score took the biggest hit from losing the ninth grade class, falling from 93.27% to 66.91%. An ominious sign that something fradulant may have been going on.  The other scores, namely the passing reading and overall passing scores remained relativley unchanged. 
 
 ### Math and Reading Scores by Grade
