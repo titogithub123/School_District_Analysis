@@ -47,7 +47,9 @@ However, after the removal of the ninth grade students we can see a precipitous 
 As we can see the passing math score took the biggest hit from losing the ninth grade class, falling from 93.27% to 66.91%. An ominious sign that something fradulant may have been going on.  The other scores, namely the passing reading and overall passing scores remained relativley unchanged. 
 
 ### Math and Reading Scores by Grade
+![image](https://user-images.githubusercontent.com/93171738/147712418-0c03fbaf-33ed-4d5b-b2f1-ae55bfb596d5.png) ![image](https://user-images.githubusercontent.com/93171738/147712430-0cc32526-3fc6-4581-aca7-7de26942d28a.png)
 
+For... 
 
 District 1. - Top 5 Schools
 ![image](https://user-images.githubusercontent.com/93171738/147617119-fda411f6-691c-4f78-b627-8c7ef0363be0.png)
@@ -56,13 +58,7 @@ District 1. - Top 5 Schools
 District 1. Bottom 5 Schools
 ![image](https://user-images.githubusercontent.com/93171738/147617226-221dd8ff-8dee-4a23-acfa-8662ed6c3c12.png)
 
-District 1. - Ninth Grade Math Scores
 
-![image](https://user-images.githubusercontent.com/93171738/147621470-28494ad0-a948-4a19-be6d-dfbdbe5f75f6.png)
-
-District 1. - Ninth Grade Reading Scores
-
-![image](https://user-images.githubusercontent.com/93171738/147621504-3a4fef0b-abb9-491d-a73d-4ec87a1b073b.png)
 
 
 
