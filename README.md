@@ -1,7 +1,7 @@
 # School District Analysis
-## This report will help evaluate the math and reading testing grade levels of a Local High School District.
+## This report will help evaluate the Math and Reading testing grade levels of a Local High School District.
 ### Overview of School District Analysis.
-The Analysis includes small and large schools from both public and charter schools in the area. The main areas of concern for the focus of this study is to determine the passing percentage of the different schools in the math and reading, categories. As such, we have taken a look at the different factors that go into making a particular school more or less likely to pass standardized reading and math test at a profecient level. Some of the factors we took into consideration for this study are...
+The Analysis includes small and large schools from both public and charter schools in the the school district. The main areas of concern for the focus of this study is to determine the passing percentage of the different schools in the math and reading, categories. As such, we have taken a look at the different factors that go into making a particular school more or less likely to pass standardized reading and math test at a profecient level. Some of the factors we took into consideration for this study are...
 
 - School Name
 - School Size
